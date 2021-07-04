@@ -5,14 +5,19 @@ body {
     margin: 0;
 }
 
-header {
+header h1 {
     color: purple;
     text-align: center;
     margin: 20px;
     padding: 50px;
 }
 
-section {
+section p {
     text-align: justify;
     font-size: 20px;
+}
+
+footer p {
+    text-align: left;
+    font-size: 10px;
 }
