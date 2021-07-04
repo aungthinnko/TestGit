@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    color: purple;
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+}
